@@ -1,0 +1,45 @@
+[
+    {
+      "id": 1,
+      "name": "Product A",
+      "description": "This is a great product.",
+      "price": 19.99,
+      "image": "https://example.com/image1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Product B",
+      "description": "A versatile and useful product.",
+      "price": 29.99,
+      "image": "https://example.com/image2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Product C",
+      "description": "The latest innovation in technology.",
+      "price": 149.99,
+      "image": "https://example.com/image3.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Product D",
+      "description": "Elegant and stylish design.",
+      "price": 79.99,
+      "image": "https://example.com/image4.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Product E",
+      "description": "Enhance your productivity with this tool.",
+      "price": 49.99,
+      "image": "https://example.com/image5.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Product F",
+      "description": "Perfect for outdoor adventures.",
+      "price": 99.99,
+      "image": "https://example.com/image6.jpg"
+    }
+  ]
+  
